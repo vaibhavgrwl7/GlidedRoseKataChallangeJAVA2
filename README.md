@@ -1,0 +1,1 @@
+# GlidedRoseKataChallangeJAVA2
